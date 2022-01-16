@@ -9,3 +9,7 @@ To create the Database, run the INVENTORY FINAL.sql file.
 # Usage
 
 To use the system, run the login.py file.
+
+# Screenshots
+
+![Login Screen](Images/Login Screen.png)
