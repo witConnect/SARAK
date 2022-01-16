@@ -12,4 +12,4 @@ To use the system, run the login.py file.
 
 # Screenshots
 
-![Login Screen](./Images/Login Screen.png)
+![Login Screen](./Images/LoginScreen.png)
